@@ -1,0 +1,18 @@
+C:\Users\Administrator\Desktop\Thuc Hanh\Bai1\Bai1\bin\Debug\Bai1.exe.config
+C:\Users\Administrator\Desktop\Thuc Hanh\Bai1\Bai1\bin\Debug\Bai1.exe
+C:\Users\Administrator\Desktop\Thuc Hanh\Bai1\Bai1\bin\Debug\Bai1.pdb
+C:\Users\Administrator\Desktop\Thuc Hanh\Bai1\Bai1\obj\Debug\Bai1.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Thuc Hanh\Bai1\Bai1\obj\Debug\Bai1.exe
+C:\Users\Administrator\Desktop\Thuc Hanh\Bai1\Bai1\obj\Debug\Bai1.pdb
+C:\Users\Admin\Desktop\CCPM\Bai1\Bai1\bin\Debug\Bai1.exe.config
+C:\Users\Admin\Desktop\CCPM\Bai1\Bai1\obj\Debug\Bai1.exe
+C:\Users\Admin\Desktop\CCPM\Bai1\Bai1\obj\Debug\Bai1.pdb
+D:\CCPM\Bai1\Bai1\bin\Debug\Bai1.exe.config
+D:\CCPM\Bai1\Bai1\obj\Debug\Bai1.exe
+D:\CCPM\Bai1\Bai1\obj\Debug\Bai1.pdb
+D:\CCPM\Bai1\Bai1\bin\Debug\Bai1.exe
+D:\CCPM\Bai1\Bai1\bin\Debug\Bai1.pdb
+D:\CCPM\Bai1\Bai1\obj\Debug\Bai1.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\CCPM\Bai1\Bai1\bin\Debug\Bai1.exe
+C:\Users\Admin\Desktop\CCPM\Bai1\Bai1\bin\Debug\Bai1.pdb
+C:\Users\Admin\Desktop\CCPM\Bai1\Bai1\obj\Debug\Bai1.csprojResolveAssemblyReference.cache

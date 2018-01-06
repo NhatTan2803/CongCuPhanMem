@@ -1,0 +1,6 @@
+C:\Users\Administrator\Desktop\BeeType\BeeType\bin\Debug\BeeType.exe.config
+C:\Users\Administrator\Desktop\BeeType\BeeType\bin\Debug\BeeType.exe
+C:\Users\Administrator\Desktop\BeeType\BeeType\bin\Debug\BeeType.pdb
+C:\Users\Administrator\Desktop\BeeType\BeeType\obj\Debug\BeeType.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\BeeType\BeeType\obj\Debug\BeeType.exe
+C:\Users\Administrator\Desktop\BeeType\BeeType\obj\Debug\BeeType.pdb
