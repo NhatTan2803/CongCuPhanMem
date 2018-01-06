@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<style type="text/css">
+		#myTable,tr,td{
+			border-collapse: collapse;
+			padding: 15px;
+		}
+	</style>
+</head>
+<body>
+	<table id="myTable" border="1">
+		
+	</table>
+	<form>
+		<input type="button" name="" value="Tạo bảng" onclick="create(3,5)">
+	</form>
+	<script type="text/javascript">
+		function create(row,cel){
+			var table=document.getElementById('myTable')
+			for(var i=0;i<row;i++)
+			{
+				var tr=document.createElement('tr')
+				for(var j=0;j<cel;j++)
+				{
+					var td=document.createElement('td')
+					tr.appendChild(td)
+				}
+				table.appendChild(tr)
+			}
+		}
+	</script>
+</body>
+</html>

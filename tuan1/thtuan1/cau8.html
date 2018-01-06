@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+</head>
+<body>
+	<form action="">
+		<select>
+			<option value="">Red</option>
+			<option value="">Green</option>
+			<option value="">White</option>
+			<option value="">Black</option>
+		</select>
+		<input type="button" name="" value="Remove">
+	</form>
+	<script type="text/javascript">
+		var theInput=document.getElementsByTagName('input')
+		theInput[0].addEventListener('click',remove)
+		function remove(){
+			console.log('ok');
+			var theOp=document.getElementsByTagName('option')
+			for(var i=0;i<theOp.length;i++)
+			{
+				if(theOp[i].selected)
+				{
+					theOp[i].remove();
+				}
+			}
+		}
+	</script>
+</body>
+</html>

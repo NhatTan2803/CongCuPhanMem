@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<style type="text/css">
+		img{
+			width: 250px;height: 250px;
+		}
+	</style>
+</head>
+<body>
+	<img src="../images/image1.jpg" name="hinhanh">
+	<button onclick="demo()">Đổi ảnh bất kì</button>
+	<script type="text/javascript">
+		function demo(){
+			var number=Math.ceil(Math.random()*4);
+			document.images['hinhanh'].src='../images/image'+number+'.jpg'
+		}
+	</script>
+</body>
+</html>

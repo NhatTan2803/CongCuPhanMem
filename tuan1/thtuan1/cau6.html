@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<style type="text/css">
+		#myTable{
+			border-collapse: collapse;
+		}
+	</style>
+</head>
+<body>
+	<table id="myTable" border="1">
+		<tr>
+			<td>Row1 cell1</td>
+			<td>Row1 cell2</td>
+		</tr>
+		<tr>
+			<td>Row2 cell1</td>
+			<td>Row2 cell2</td>
+		</tr>
+	</table>
+	<form>
+		<input type="button" name="" onclick="changeContent()" value="Change">
+	</form>
+	<script type="text/javascript">
+		function changeContent(){
+			var theTd=document.getElementsByTagName('td')
+			
+			for(var i=0;i<theTd.length;i++){
+				var text='Row in table'
+				var p=document.createTextNode(text)
+				theTd[i].appendChild(document.createElement('br'))
+				theTd[i].appendChild(p)
+			}
+		}
+	</script>
+</body>
+</html>

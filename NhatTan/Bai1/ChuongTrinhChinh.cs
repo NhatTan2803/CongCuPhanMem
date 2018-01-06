@@ -6,29 +6,20 @@ using System.Threading.Tasks;
 
 namespace Bai1
 {
-    class Program
+    class ChuongTrinhChinh
     {
         static void Main(string[] args)
         {
-            GradeBook app = new GradeBook();
+            TinhDiem app = new TinhDiem();
             do
             {
-                Console.WriteLine("1. Nhap diem: ");
-                Console.WriteLine("2. Xem Thong Ke: ");
-                int choose = Int32.Parse(Console.ReadLine());
-                switch(choose)
-                {
-                    case 1:
+                        Console.WriteLine("----------Nhap Diem------------");
                         Console.WriteLine("Nhap so luong sinh vien: ");
                         int n = Int32.Parse(Console.ReadLine());
                         app.Input(n);
-                        break;
-                    case 2:
+                        Console.WriteLine("-----------Thong Ke-----------");
                         app.ShowStatistic();
-                        break;
-                    default:
-                        break;
-                }
+                
             } while (true);
         }
     }

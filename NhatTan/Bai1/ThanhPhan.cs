@@ -6,8 +6,9 @@ using System.Threading.Tasks;
 
 namespace Bai1
 {
-    class GradeStatistic
+    class ThanhPhan
     {
+
         public float CaoNhat = 0;
         public float ThapNhat = 100;
         public float TrungBinh;

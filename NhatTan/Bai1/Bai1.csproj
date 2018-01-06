@@ -43,10 +43,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="GradeBook.cs" />
-    <Compile Include="GradeStatistic.cs" />
-    <Compile Include="Program.cs" />
+    <Compile Include="ChuongTrinhChinh.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ThanhPhan.cs" />
+    <Compile Include="TinhDiem.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
